@@ -1,0 +1,1 @@
+Hi, for the Section 2 the assignment does not ask for the Express app to listen. I wasn't sure if this was intended or if the listen was implicit. I used it for testing and later commented it out.
